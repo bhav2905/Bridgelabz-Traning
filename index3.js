@@ -9,6 +9,8 @@ console.log(mystring.length);
 
 //pop() - remove from end
 numbers.pop();
+
+
 console.log("After loop:",numbers);
 
 //unshift() - add at start
@@ -77,4 +79,5 @@ let hasBig = numbers.some((num)=>num>100);
 
 //Filter adults
 let adults = users.filter(user=>user)
+
 
