@@ -8,6 +8,9 @@ function createLog(date, type, data) {
   return "Log created successfully";
 }
 
+
+
+
 function readLog() {
   if (!fs.existsSync("log.txt")) {
     return "File does not exist";
@@ -45,3 +48,4 @@ module.exports = {
   deleteLog,
   writeLog
 };
+
