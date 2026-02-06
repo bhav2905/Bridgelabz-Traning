@@ -9,6 +9,9 @@ console.log(output); // Output: i aM aBc
 // Explanation:
 
 
+
+
+
 //input ="aabbcc"
 //output = a2b2c2
 let input = "aabbcc";
@@ -21,4 +24,5 @@ console.log(input);
     for(let i=0;i<str.length;i++){
         return 0
     }
+
  }
