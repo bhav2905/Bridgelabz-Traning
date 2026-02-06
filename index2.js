@@ -6,6 +6,8 @@ console.log(s1);
 console.log(s2);
 console.log(s3);
 
+
+
 //String Methods
 let text = "JavaScript";
 console.log("Length:", text.length);
@@ -98,4 +100,5 @@ console.log("Trimmed Password:",userPassword);
 // count words in a string 
 let sentnce2 = "This is a sample sentence";
 let words = sentnce2.trim().split(" ");
+
 
