@@ -84,7 +84,7 @@ bridgelabs-training/
 
 ## 👨‍💻 Author
 
-**Shivam Agrawal**
+**Bhav Mangal**
 BridgeLabs Trainee | Aspiring Software Engineer
 
 ---
@@ -94,4 +94,5 @@ BridgeLabs Trainee | Aspiring Software Engineer
 * BridgeLabs Learning Program
 * Mentors and trainers for guidance
 * Open-source community
+
 
