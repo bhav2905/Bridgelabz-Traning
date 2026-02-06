@@ -1,14 +1,17 @@
 {
-  "name": "todo-list-app",
+  "name": "movie-ticket-booking",
   "version": "1.0.0",
-  "type":"module",
   "description": "",
+  "license": "ISC",
+  "author": "Shivamagrawal20",
+  "type": "module",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node app.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {
+    "express": "^5.2.1",
+    "j": "^1.0.0"
+  }
 }
