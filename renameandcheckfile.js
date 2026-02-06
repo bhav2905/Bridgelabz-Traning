@@ -18,6 +18,9 @@ function checkFile(){
 
 
 
+
+
+
 function renameFile(){
     fs.access("log.txt",(err)=>{
         if(err) throw err
@@ -29,4 +32,5 @@ function renameFile(){
 }
 readFileStream();
 checkFile();
+
 renameFile();
