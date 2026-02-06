@@ -10,6 +10,9 @@ function createLog(date, type, message) {
             throw err;
         }
         console.log("File read successfully");
+
+
+        
     });
 
     fs.writeFileSync(
@@ -29,3 +32,4 @@ const result = createLog(
 );
 
 console.log(result);
+
